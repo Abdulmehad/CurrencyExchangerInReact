@@ -1,6 +1,6 @@
 
 # CurrencyExchangerInReact
-
+![Currency Changer in React](ss.png)
 CurrencyExchangerInReact is a React application that allows users to convert currencies. This project is built using Vite for fast and efficient development.
 
 ## Features
