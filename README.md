@@ -1,5 +1,5 @@
 
-# CurrencyExchangerInReact
+# Currency Exchanger In React
 ![Currency Changer in React](ss.png)
 CurrencyExchangerInReact is a React application that allows users to convert currencies. This project is built using Vite for fast and efficient development.
 
@@ -11,6 +11,14 @@ CurrencyExchangerInReact is a React application that allows users to convert cur
 - HMR (Hot Module Replacement) for a seamless development experience
 - ESLint integration for code quality and consistency
 - Tailwind CSS for responsive and modern styling
+  
+- ## Live At
+1. To see the Live demo of app, follow this Link
+
+   ```shell[
+   https://strong-alfajores-6d0af5.netlify.app/
+   ```
+   This project can also be seen live at [Live Link](https://strong-alfajores-6d0af5.netlify.app/).
 
 ## Getting Started
 
